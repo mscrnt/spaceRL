@@ -50,7 +50,7 @@ restore_file_path = "./training_dir/SpaceInvaders_20221225033122.h5" # Restore f
 model_restore_dir = "./model/SpaceInvaders_20221225033122.h5" # Model file path
 num_test_episodes = 1 # Number of episodes you test for
 LOG_DIR = './logs'
-resume = True
+resume = False
 
 
 # Create the training_dir directory

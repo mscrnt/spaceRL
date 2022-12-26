@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/kenneth/Documents/Projects/spaceRL"
+VIRTUAL_ENV="/mnt/d/Projects/spaceRL"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
